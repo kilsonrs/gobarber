@@ -31,3 +31,5 @@ yarn add bcryptjs
 yarn add jsonwebtoken
 
 yarn add yup
+
+yarn add multer
